@@ -1,4 +1,3 @@
 ansible_host: 122.152.221.126
 ansible_ssh_port: 32222
 ansible_user: root
-ansible_ssh_pass: &UJM8ik,
